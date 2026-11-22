@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ecoangola.github.io/ecoangola/sitemap.xml
